@@ -1,0 +1,118 @@
+[
+  {
+    "id": "maria-silva",
+    "nome": "Maria Silva",
+    "titulo": "Artista Visual & Designer",
+    "descricao": "Especialista em arte digital e design gráfico, com foco em projetos que conectam tradição e modernidade. Trabalha com ilustrações, branding e projetos culturais para a comunidade local.",
+    "imagens": [
+      {
+        "src": "/src/assets/portfolio1-1.jpg",
+        "alt": "Obra de arte digital de Maria Silva"
+      },
+      {
+        "src": "/src/assets/portfolio1-2.jpg",
+        "alt": "Design gráfico de Maria Silva"
+      }
+    ],
+    "links": [
+      {
+        "tipo": "instagram",
+        "url": "https://instagram.com/mariasilva_art"
+      },
+      {
+        "tipo": "behance",
+        "url": "https://behance.net/mariasilva"
+      }
+    ],
+    "contato": {
+      "email": "maria.silva@email.com",
+      "telefone": "(11) 99999-1111"
+    }
+  },
+  {
+    "id": "joao-santos",
+    "nome": "João Santos",
+    "titulo": "Fotógrafo Documental",
+    "descricao": "Fotógrafo especializado em documentar a vida urbana e as transformações sociais da cidade. Seus trabalhos capturam momentos únicos do cotidiano e da cultura local.",
+    "imagens": [
+      {
+        "src": "/src/assets/portfolio2-1.jpg",
+        "alt": "Fotografia documental de João Santos"
+      },
+      {
+        "src": "/src/assets/portfolio2-2.jpg",
+        "alt": "Retrato urbano de João Santos"
+      }
+    ],
+    "links": [
+      {
+        "tipo": "website",
+        "url": "https://joaosantos.photography"
+      },
+      {
+        "tipo": "instagram",
+        "url": "https://instagram.com/joao_santos_photo"
+      }
+    ],
+    "contato": {
+      "email": "joao.santos@email.com",
+      "telefone": "(11) 99999-2222"
+    }
+  },
+  {
+    "id": "ana-costa",
+    "nome": "Ana Costa",
+    "titulo": "Ilustradora & Muralista",
+    "descricao": "Artista que transforma espaços urbanos através de murais coloridos e ilustrações que contam histórias da comunidade. Especializada em arte pública e projetos colaborativos.",
+    "imagens": [
+      {
+        "src": "/src/assets/portfolio3-1.jpg",
+        "alt": "Mural de Ana Costa"
+      },
+      {
+        "src": "/src/assets/portfolio3-2.jpg",
+        "alt": "Ilustração de Ana Costa"
+      }
+    ],
+    "links": [
+      {
+        "tipo": "instagram",
+        "url": "https://instagram.com/ana_costa_murals"
+      }
+    ],
+    "contato": {
+      "email": "ana.costa@email.com"
+    }
+  },
+  {
+    "id": "carlos-oliveira",
+    "nome": "Carlos Oliveira",
+    "titulo": "Designer UX/UI",
+    "descricao": "Designer focado em criar experiências digitais inclusivas e acessíveis. Trabalha com startups locais e projetos de impacto social, sempre priorizando a usabilidade e a experiência do usuário.",
+    "imagens": [
+      {
+        "src": "/src/assets/portfolio4-1.jpg",
+        "alt": "Interface design de Carlos Oliveira"
+      },
+      {
+        "src": "/src/assets/portfolio4-2.jpg",
+        "alt": "Prototipo UX de Carlos Oliveira"
+      }
+    ],
+    "links": [
+      {
+        "tipo": "website",
+        "url": "https://carlosoliveira.design"
+      },
+      {
+        "tipo": "linkedin",
+        "url": "https://linkedin.com/in/carlos-oliveira-ux"
+      }
+    ],
+    "contato": {
+      "email": "carlos.oliveira@email.com",
+      "telefone": "(11) 99999-4444"
+    }
+  }
+]
+
